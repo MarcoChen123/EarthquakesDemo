@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EarthquakesDemo</string>
+
+    <string name="network_request">请求网络中...</string>
+</resources>
